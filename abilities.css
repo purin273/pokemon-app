@@ -1,0 +1,38 @@
+.container{
+    /* color: black; */
+    display: flex;
+}
+
+.pieChart{
+    display: flex;
+    justify-content: center;
+    /* position: absolute; */
+    margin-left: 562px;
+    margin-top: -301px;
+}
+.pie1{
+    display: block;
+    box-sizing: border-box;
+    height: 297.455px;
+    width: 298.182px;
+}
+
+.pie2{
+    height: -375.545px;
+    width: -27.817999999999984px;
+}
+
+.img{
+    width: 458px;
+    margin-left: -91px;
+    margin-top: -55px;
+    /* justify-content: center; */
+    height: 495px;
+}
+.h1{
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-left: -10px;
+    text-transform: capitalize;
+}

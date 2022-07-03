@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.pokeImg{
+    vertical-align: middle;
+    border-style: none;
+    width: 30%;
+    margin-left: 570px;
+    margin-bottom: 81px;
+    background: cornflowerblue;
+    background-size: contain;
+}
